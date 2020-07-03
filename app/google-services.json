@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "674194297145",
+    "firebase_url": "https://myappie-f7025.firebaseio.com",
+    "project_id": "myappie-f7025",
+    "storage_bucket": "myappie-f7025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674194297145:android:c208ed1fcf030534ded8e8",
+        "android_client_info": {
+          "package_name": "com.example.fireuserregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674194297145-61p8623bbv3518cgcllrvh3953gs2cds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjRhPxf5s758DF_gUAkMTiJFpGm8vDVg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674194297145-61p8623bbv3518cgcllrvh3953gs2cds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
